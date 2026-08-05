@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: B.Eng. Candidate in Electronic Engineering at The Chinese University of Hong Kong
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: false
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Shuwei Zhao (Wayne)**, an undergraduate student in Electronic Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), graduating in May 2027. My research focuses on **medical robotics, surgical robotics, and magnetic robotics**, with an emphasis on miniaturized systems for minimally invasive imaging and intervention.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At CUHK, I work with [Prof. Hongliang Ren](https://www.labren.org/) on magnetic imaging catheters and capsule robots. In 2026, I completed an exchange semester and research project at ETH Zurich's Multi-Scale Robotics Lab under the supervision of **Prof. Bradley Nelson**, where I developed a soft sub-millimeter intraductal imaging catheter. I am currently a research intern in **Prof. Qiji Ze's group at Xi'an Jiaotong University**, working on magnetically steerable catheter systems for confined-space inspection.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to develop compact robotic systems that combine magnetic actuation, compliant mechanics, sensing, and rigorous experimental validation to make minimally invasive diagnosis and intervention safer and more capable. I am applying to PhD programs beginning in **Fall 2027**.
+
+[Curriculum Vitae](/assets/pdf/Shuwei_Zhao_CV.pdf) &nbsp;&middot;&nbsp; [Research Portfolio](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf) &nbsp;&middot;&nbsp; [Publications](/publications/) &nbsp;&middot;&nbsp; {% al_email_protect_link site.data.socials.email %}
+
+## Research Interests
+
+- Magnetic actuation and navigation for medical robots
+- Miniaturized catheters, continuum robots, and endoluminal imaging
+- Soft and compliant robotic systems for minimally invasive procedures
+- Benchtop, phantom, and ex vivo validation of medical robotic devices
+
+## Selected Honors
+
+- **Song Qingling Scholarship**, Zhiyuan Education Fund, RMB 320,000 (2023–2027)
+- **Dean's List**, Faculty of Engineering, top 10% (2023–2024, 2024–2025)
+- **Charles Kao Scholarship** (2024, 2025)
+- **Engineering Elite Stream Scholarship** (2023, 2024)

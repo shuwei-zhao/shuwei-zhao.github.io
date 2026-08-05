@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: Selected projects in magnetic, soft, and minimally invasive medical robotics.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+display_categories: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

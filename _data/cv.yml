@@ -1,189 +1,160 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Shuwei Zhao
+  label: B.Eng. Candidate in Electronic Engineering
+  email: shwzhao3@gmail.com
+  location: Hong Kong SAR
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Undergraduate researcher developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: shuwei-zhao
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: shuwei-zhao-5116382b1
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: The Chinese University of Hong Kong
+        location: Hong Kong SAR
+        url: https://www.cuhk.edu.hk/
+        area: Electronic Engineering
+        studyType: Bachelor of Engineering
+        start_date: 2023-09
+        end_date: 2027-05
+        score: "CGPA: 3.911/4.000; Major GPA: 3.967/4.000"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Engineering Elite Stream (2023-2026), a selective academic enrichment program for high-performing engineering students.
 
-      - institution: Eidgenössische Technische Hochschule
+      - institution: ETH Zurich
         location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        url: https://ethz.ch/
+        area: Electrical Engineering and Information Technology
+        studyType: Exchange Student
+        start_date: 2026-02
+        end_date: 2026-08
         highlights:
-          - Description 1.
-          - Description 2.
+          - Semester project at the Multi-Scale Robotics Lab under the supervision of Prof. Bradley Nelson; project grade 5.5/6.0.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Xi'an Jiaotong University
+        position: Research Intern
+        location: Xi'an, China
+        start_date: 2026-07
+        end_date: present
+        summary: Magnetically Steerable Catheter System for Industrial Inspection, Prof. Qiji Ze's group.
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed a passive reel-and-guide mechanism in SolidWorks for compact storage of excess spring-sheathed magnetic catheter while preserving minimum bend radius.
+          - Designed and fabricated the reel, entry guide, catheter groove, and interfaces with the existing drive module for compact packaging and low-friction motion.
+          - Developed benchtop advance and retract tests for automatic take-up, smooth release, jamming, groove escape, resistance, and bend-radius compliance.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: The Chinese University of Hong Kong
+        position: Research Assistant
+        location: Hong Kong SAR
+        start_date: 2026-06
+        end_date: 2026-07
+        summary: Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation; advisor, Prof. Hongliang Ren.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Designed and fabricated a millimeter-scale catheter integrating an LED micro-camera, a 0.2-mm nitinol support, heat-shrink encapsulation, and a hard-magnetic Ecoflex cuff.
+          - Built insertion-force and steering-characterization setups and completed bronchial-tree phantom navigation experiments.
+          - Demonstrated multidirectional magnetic steering and forward-looking intraluminal imaging; led manuscript preparation as co-first author.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
+      - company: ETH Zurich, Multi-Scale Robotics Lab
+        position: Semester Project Researcher
         location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        start_date: 2026-03
+        end_date: 2026-06
+        summary: Soft Miniaturized Intraductal Imaging Catheter; supervisor, Prof. Bradley Nelson.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Designed and fabricated sub-millimeter imaging catheters using 0.5-mm and 0.7-mm nitinol supports.
+          - Built a four-load-cell force platform with Arduino and Python data acquisition and compared prototypes with a 1.1-mm rigid reference.
+          - Identified the 0.5-mm silicone-covered design as the lowest-force configuration and demonstrated imaging in a silicone breast-duct phantom.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: The Chinese University of Hong Kong
+        position: Research Assistant
+        location: Hong Kong SAR
+        start_date: 2025-09
+        end_date: present
+        summary: Polymer Material-Based Jumping Robot; advisor, Prof. Hongliang Ren.
+        highlights:
+          - Designed and fabricated an Arduino-controlled pneumatic jumping robot using a double-layer spherical-cap silicone actuator.
+          - Modeled actuator geometry and evaluated material stiffness and inflation-release cycles against jump height, frequency, and repeatability.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: The Chinese University of Hong Kong
+        position: Research Assistant
+        location: Hong Kong SAR
+        start_date: 2025-06
+        end_date: 2025-08
+        summary: Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy; advisor, Prof. Hongliang Ren.
+        highlights:
+          - Developed A4988-based motor-control electronics and Arduino pulse-control software for a 17-mm biopsy capsule.
+          - Built an angular calibration platform yielding approximately 18.1 degrees per pulse and R-squared of 0.99.
+          - Conducted ex vivo biopsy experiments and analyzed penetration, interaction-force, and tissue-yield data for the accepted ICRA 2026 paper.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: A Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Shuwei Zhao
+          - Ruizhou Zhao
+          - Zhiqing Tang
+          - Wenchao Yue
+          - Hongliang Ren
+        publisher: International Conference on Biomimetic Intelligence and Robotics (ICBIR)
+        releaseDate: 2026
+        summary: Accepted. Co-first author with Ruizhou Zhao.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Ruizhou Zhao
+          - Yichen Chu
+          - Shuwei Zhao
+          - Wenchao Yue
+          - Raymond Shing-Yan Tang
+          - Hongliang Ren
+        publisher: IEEE International Conference on Robotics and Automation (ICRA)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2602.06207
+        summary: Accepted. Second author; Ruizhou Zhao and Yichen Chu are co-first authors.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Awards:
+      - title: Song Qingling Scholarship
+        date: 2023-2027
+        awarder: Zhiyuan Education Fund
+        summary: RMB 320,000 scholarship.
+
+      - title: Dean's List
+        date: 2023-2024, 2024-2025
+        awarder: Faculty of Engineering, The Chinese University of Hong Kong
+        summary: Awarded to students in the top 10 percent.
+
+      - title: United College Head's List
+        date: 2023-2024, 2024-2025
+        awarder: United College, The Chinese University of Hong Kong
+        summary: Recognition for outstanding academic performance.
+
+      - title: Charles Kao Scholarship
+        date: 2024, 2025
+        awarder: The Chinese University of Hong Kong
+
+      - title: Engineering Elite Stream Scholarship
+        date: 2023, 2024
+        awarder: The Chinese University of Hong Kong
+
+      - title: Arthur and Louise May Memorial Scholarship
+        date: 2023-2025
+        awarder: The Chinese University of Hong Kong
+
+      - title: Second Prize, Shandong Provincial Mathematics Competition
+        date: 2022
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Mechanical Design and CAD
+        keywords: "SolidWorks, Fusion 360, Onshape"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Embedded Systems and Electronics
+        keywords: "Arduino, motor control, sensor integration, schematic and PCB design, KiCad, EasyEDA Pro"
 
-      - name: English
-        summary: "Fluent"
+      - name: Programming
+        keywords: "C/C++, Python, MATLAB, LaTeX"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Experimental and Fabrication
+        keywords: "3D printing, silicone and Ecoflex molding, nitinol catheter fabrication, force sensing, load-cell calibration, magnetic actuation, optical and infrared sensing, ex vivo tissue experiments"
