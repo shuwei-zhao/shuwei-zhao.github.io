@@ -34,6 +34,8 @@ module.exports = {
     {
       name: "desktop",
       use: {
+        browserName: "chromium",
+        channel: "chromium",
         viewport: { width: 1366, height: 1800 },
       },
     },
@@ -41,6 +43,8 @@ module.exports = {
       name: "mobile",
       use: {
         ...devices["iPhone 12"],
+        browserName: "chromium",
+        channel: "chromium",
       },
     },
   ],
