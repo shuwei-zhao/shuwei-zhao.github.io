@@ -9,6 +9,10 @@ display_categories: false
 horizontal: true
 ---
 
+My research focuses on medical robotics, including magnetic catheters, minimally invasive imaging and intervention, and soft robotic systems. The projects below also include catheter management for industrial inspection. Each page distinguishes my contributions and the current stage of validation.
+
+[Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006) &nbsp;&middot;&nbsp; [CV (PDF)](/assets/pdf/Shuwei_Zhao_CV.pdf?v=20261006)
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

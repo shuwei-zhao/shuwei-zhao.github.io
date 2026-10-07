@@ -4,7 +4,7 @@ cv:
   email: shwzhao3@gmail.com
   location: Hong Kong SAR
   image: ""
-  summary: Final-year Electronic Engineering undergraduate developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention, with experience in medical robotics, embedded control, and experimental validation.
+  summary: Final-year Electronic Engineering undergraduate developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention, with experience in medical robotics, embedded control, and experimental validation. [Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006).
 
   social_networks:
     - network: GitHub
@@ -61,7 +61,7 @@ cv:
           - Demonstrated multidirectional magnetic steering and forward-looking intraluminal imaging; led manuscript preparation as co-first author.
 
       - company: ETH Zurich, Multi-Scale Robotics Lab
-        position: Semester Project Researcher
+        position: Research Assistant (Semester Project)
         location: Zurich, Switzerland
         start_date: 2026-03
         end_date: 2026-06
@@ -69,7 +69,8 @@ cv:
         highlights:
           - Designed and fabricated flexible imaging catheter prototypes using nitinol support wires of 0.5 mm and 0.7 mm in diameter.
           - Built a four-load-cell force platform with Arduino and Python data acquisition and compared prototypes with a 1.1-mm rigid reference.
-          - Identified the prototype with a 0.5-mm nitinol support and silicone covering as the lowest-force configuration and demonstrated imaging in a silicone breast-duct phantom.
+          - Identified the prototype with a 0.5-mm nitinol support and silicone covering as the lowest-force configuration (268.8 mN) in a simplified silicone setup; recorded 20 manual trials per condition and analyzed 10 selected trials per condition.
+          - Demonstrated imaging in a silicone breast-duct phantom; semester project grade 5.5/6.0.
 
       - company: The Chinese University of Hong Kong
         position: Research Assistant
