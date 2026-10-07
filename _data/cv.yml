@@ -4,7 +4,7 @@ cv:
   email: shwzhao3@gmail.com
   location: Hong Kong SAR
   image: ""
-  summary: Undergraduate researcher developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention.
+  summary: Final-year Electronic Engineering undergraduate developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention, with experience in medical robotics, embedded control, and experimental validation. [Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006).
 
   social_networks:
     - network: GitHub
@@ -23,58 +23,61 @@ cv:
         end_date: 2027-05
         score: "CGPA: 3.911/4.000; Major GPA: 3.967/4.000"
         highlights:
+          - "CGPA: 3.911/4.000; Major GPA: 3.967/4.000. Expected graduation: May 2027."
           - Engineering Elite Stream (2023-2026), a selective academic enrichment program for high-performing engineering students.
 
       - institution: ETH Zurich
         location: Zurich, Switzerland
-        url: https://ethz.ch/
+        url: https://ethz.ch/en.html
         area: Electrical Engineering and Information Technology
         studyType: Exchange Student
         start_date: 2026-02
         end_date: 2026-08
         highlights:
+          - "Exchange period: February–August 2026; semester project: March–June 2026."
           - Semester project at the Multi-Scale Robotics Lab under the supervision of Prof. Bradley Nelson; project grade 5.5/6.0.
 
     Experience:
       - company: Xi'an Jiaotong University
-        position: Research Intern
+        position: Research Assistant
         location: Xi'an, China
         start_date: 2026-07
-        end_date: present
-        summary: Magnetically Steerable Catheter System for Industrial Inspection, Prof. Qiji Ze's group.
+        end_date: 2026-08
+        summary: "July–August 2026. Magnetically Steerable Catheter System for Industrial Inspection; advisor, Prof. Qiji Ze."
         highlights:
-          - Designed a passive reel-and-guide mechanism in SolidWorks for compact storage of excess spring-sheathed magnetic catheter while preserving minimum bend radius.
-          - Designed and fabricated the reel, entry guide, catheter groove, and interfaces with the existing drive module for compact packaging and low-friction motion.
-          - Developed benchtop advance and retract tests for automatic take-up, smooth release, jamming, groove escape, resistance, and bend-radius compliance.
+          - Designed a motorized translating-pulley catheter accumulator for insertion and retraction, with approximately twofold length compensation (ΔL ≈ 2Δx).
+          - Developed the assembly in Fusion 360 and SolidWorks using a 120-mm guide pulley, 608 bearings, an MGN12H carriage, a T8 lead-screw stage, and custom 3D-printed components.
+          - Implemented Python/Tkinter software, USB serial communication, Arduino UNO firmware, and TB6600 stepper control, including calibration, jogging, fixed-distance motion, adjustable speed and acceleration, travel limits, and watchdog protection.
 
       - company: The Chinese University of Hong Kong
         position: Research Assistant
         location: Hong Kong SAR
         start_date: 2026-06
         end_date: 2026-07
-        summary: Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation; advisor, Prof. Hongliang Ren.
+        summary: June–July 2026. Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation; advisor, Prof. Hongliang Ren.
         highlights:
           - Designed and fabricated a millimeter-scale catheter integrating an LED micro-camera, a 0.2-mm nitinol support, heat-shrink encapsulation, and a hard-magnetic Ecoflex cuff.
           - Built insertion-force and steering-characterization setups and completed bronchial-tree phantom navigation experiments.
           - Demonstrated multidirectional magnetic steering and forward-looking intraluminal imaging; led manuscript preparation as co-first author.
 
       - company: ETH Zurich, Multi-Scale Robotics Lab
-        position: Semester Project Researcher
+        position: Research Assistant (Semester Project)
         location: Zurich, Switzerland
         start_date: 2026-03
         end_date: 2026-06
-        summary: Soft Miniaturized Intraductal Imaging Catheter; supervisor, Prof. Bradley Nelson.
+        summary: March–June 2026. Soft Miniaturized Intraductal Imaging Catheter; supervisor, Prof. Bradley Nelson.
         highlights:
-          - Designed and fabricated sub-millimeter imaging catheters using 0.5-mm and 0.7-mm nitinol supports.
+          - Designed and fabricated flexible imaging catheter prototypes using nitinol support wires of 0.5 mm and 0.7 mm in diameter.
           - Built a four-load-cell force platform with Arduino and Python data acquisition and compared prototypes with a 1.1-mm rigid reference.
-          - Identified the 0.5-mm silicone-covered design as the lowest-force configuration and demonstrated imaging in a silicone breast-duct phantom.
+          - Identified the prototype with a 0.5-mm nitinol support and silicone covering as the lowest-force configuration (268.8 mN) in a simplified silicone setup; recorded 20 manual trials per condition and analyzed 10 selected trials per condition.
+          - Demonstrated imaging in a silicone breast-duct phantom; semester project grade 5.5/6.0.
 
       - company: The Chinese University of Hong Kong
         position: Research Assistant
         location: Hong Kong SAR
         start_date: 2025-09
         end_date: present
-        summary: Polymer Material-Based Jumping Robot; advisor, Prof. Hongliang Ren.
+        summary: September 2025–present. Polymer Material-Based Jumping Robot; advisor, Prof. Hongliang Ren.
         highlights:
           - Designed and fabricated an Arduino-controlled pneumatic jumping robot using a double-layer spherical-cap silicone actuator.
           - Modeled actuator geometry and evaluated material stiffness and inflation-release cycles against jump height, frequency, and repeatability.
@@ -84,9 +87,9 @@ cv:
         location: Hong Kong SAR
         start_date: 2025-06
         end_date: 2025-08
-        summary: Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy; advisor, Prof. Hongliang Ren.
+        summary: June–August 2025. Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy; advisor, Prof. Hongliang Ren.
         highlights:
-          - Developed A4988-based motor-control electronics and Arduino pulse-control software for a 17-mm biopsy capsule.
+          - Developed A4988-based motor-control electronics and Arduino pulse-control software for a biopsy capsule measuring 17 mm in diameter and 22 mm in length.
           - Built an angular calibration platform yielding approximately 18.1 degrees per pulse and R-squared of 0.99.
           - Conducted ex vivo biopsy experiments and analyzed penetration, interaction-force, and tissue-yield data for the accepted ICRA 2026 paper.
 
@@ -100,7 +103,7 @@ cv:
           - Hongliang Ren
         publisher: International Conference on Biomimetic Intelligence and Robotics (ICBIR)
         releaseDate: 2026
-        summary: Accepted. Co-first author with Ruizhou Zhao.
+        summary: "Shuwei Zhao†, Ruizhou Zhao†, Zhiqing Tang, Wenchao Yue, and Hongliang Ren. Accepted at ICBIR 2026. †Equal contribution."
 
       - title: Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy
         authors:
@@ -113,21 +116,21 @@ cv:
         publisher: IEEE International Conference on Robotics and Automation (ICRA)
         releaseDate: 2026
         url: https://arxiv.org/abs/2602.06207
-        summary: Accepted. Second author; Ruizhou Zhao and Yichen Chu are co-first authors.
+        summary: "Ruizhou Zhao†, Yichen Chu†, Shuwei Zhao, Wenchao Yue, Raymond Shing-Yan Tang, and Hongliang Ren. Accepted at ICRA 2026. †Equal contribution. Preprint available on arXiv."
 
     Awards:
       - title: Song Qingling Scholarship
-        date: 2023-2027
+        date: "2023–2027"
         awarder: Zhiyuan Education Fund
         summary: RMB 320,000 scholarship.
 
       - title: Dean's List
-        date: 2023-2024, 2024-2025
+        date: "2023, 2024"
         awarder: Faculty of Engineering, The Chinese University of Hong Kong
         summary: Awarded to students in the top 10 percent.
 
       - title: United College Head's List
-        date: 2023-2024, 2024-2025
+        date: "2023, 2024"
         awarder: United College, The Chinese University of Hong Kong
         summary: Recognition for outstanding academic performance.
 
@@ -140,7 +143,7 @@ cv:
         awarder: The Chinese University of Hong Kong
 
       - title: Arthur and Louise May Memorial Scholarship
-        date: 2023-2025
+        date: "2023–2025"
         awarder: The Chinese University of Hong Kong
 
       - title: Second Prize, Shandong Provincial Mathematics Competition

@@ -9,11 +9,11 @@ last_name: Zhao
 contact_note: >
   The best way to reach me is by email at shwzhao3@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shuwei Zhao is an Year 4 Electronic Engineering undergraduate at CUHK working on medical and surgical robotics.
+  Shuwei Zhao is a final-year Electronic Engineering undergraduate at CUHK working on medical robotics, magnetic imaging catheters, and compliant robotic systems for minimally invasive imaging and intervention.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Shuwei Zhao, Wayne Zhao, medical robotics, surgical robotics, CUHK, Hongliang Ren, Bradley Nelson
+keywords: Shuwei Zhao, Wayne Zhao, medical robotics, surgical robotics, magnetic actuation, imaging catheters, endoscopic imaging, soft robotics, CUHK, Hongliang Ren, Bradley Nelson
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -408,7 +408,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: # show complete author lists, including equal-contribution context
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
