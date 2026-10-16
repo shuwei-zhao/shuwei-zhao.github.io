@@ -4,11 +4,11 @@ title: about
 permalink: /
 subtitle: B.Eng. Candidate in Electronic Engineering at The Chinese University of Hong Kong
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: false
   limit: 5
 
@@ -37,3 +37,10 @@ My long-term goal is to develop compact robotic systems that combine magnetic ac
 - **Dean's List**, Faculty of Engineering, top 10% (2023, 2024)
 - **Charles Kao Scholarship** (2024, 2025)
 - **Engineering Elite Stream Scholarship** (2023, 2024)
+
+<!-- Render these sections here to customize their headings. -->
+<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
+{% include news.liquid limit=true %}
+
+<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a></h2>
+{% include selected_papers.liquid %}
