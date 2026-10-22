@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Pneumatic Soft Jumping Robot
-description: An Arduino-controlled silicone actuator for repeatable benchtop jumping
-importance: 6
+description: Silicone actuator design, geometric modeling, and pneumatic control for benchtop jumping.
+importance: 5
 category: research
 ---
 

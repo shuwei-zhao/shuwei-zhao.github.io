@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Magnetically Steerable Micro-Camera Catheter
-description: Magnetic steering and forward imaging for bronchial-tree phantom navigation
+description: Integrated magnetic actuation and forward-looking imaging, with steering characterization and bronchial-tree phantom navigation.
 img: assets/img/projects/bronchial-catheter-concept.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---
@@ -14,7 +14,7 @@ This project develops a millimeter-scale catheter that combines distal visualiza
 
 ## Key results
 
-- Reduced average insertion force from **943.1 mN** in a dry lumen to **426.0 mN** after saline wetting across 10 repeated trials per condition.
+- Characterized insertion force under dry and saline-wetted conditions and evaluated multidirectional magnetic steering and forward-looking imaging in a bronchial-tree phantom.
 - Achieved multidirectional distal steering of **30.2 degrees left**, **35.0 degrees right**, **25.6 degrees up**, and **35.5 degrees down**.
 - Demonstrated magnetically assisted redirection at primary and secondary bronchial bifurcations while maintaining forward-looking intraluminal imaging.
 

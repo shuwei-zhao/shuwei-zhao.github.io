@@ -4,14 +4,15 @@ cv:
   email: shwzhao3@gmail.com
   location: Hong Kong SAR
   image: ""
-  summary: Final-year Electronic Engineering undergraduate developing miniaturized magnetic and compliant robotic systems for minimally invasive imaging and intervention, with experience in medical robotics, embedded control, and experimental validation. [Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006).
-
+  summary:
+    Final-year Electronic Engineering undergraduate with research experience in robotic hardware design, magnetic and pneumatic actuation, embedded
+    control, and experimental validation across CUHK, Xi’an Jiaotong University, and ETH Zürich. Seeking PhD opportunities in robotics, with particular
+    interests in cable-driven mechanisms, compliant systems, and wearable robots.
   social_networks:
     - network: GitHub
       username: shuwei-zhao
     - network: LinkedIn
       username: shuwei-zhao-5116382b1
-
   sections:
     Education:
       - institution: The Chinese University of Hong Kong
@@ -25,7 +26,6 @@ cv:
         highlights:
           - "CGPA: 3.911/4.000; Major GPA: 3.967/4.000. Expected graduation: May 2027."
           - Engineering Elite Stream (2023-2026), a selective academic enrichment program for high-performing engineering students.
-
       - institution: ETH Zurich
         location: Zurich, Switzerland
         url: https://ethz.ch/en.html
@@ -36,19 +36,25 @@ cv:
         highlights:
           - "Exchange period: February–August 2026; semester project: March–June 2026."
           - Semester project at the Multi-Scale Robotics Lab under the supervision of Prof. Bradley Nelson; project grade 5.5/6.0.
-
-    Experience:
+    Research Interests:
+      - bullet: Cable-driven mechanisms and actuation systems
+      - bullet: Wearable robotics and supernumerary robotic limbs
+      - bullet: Soft, compliant, and continuum robots
+      - bullet: Robotic system integration, sensing, and experimental characterization
+    Research Experience:
       - company: Xi'an Jiaotong University
         position: Research Assistant
         location: Xi'an, China
         start_date: 2026-07
         end_date: 2026-08
-        summary: "July–August 2026. Magnetically Steerable Catheter System for Industrial Inspection; advisor, Prof. Qiji Ze."
+        summary: July–August 2026. Motorized Catheter Management Module for Industrial Inspection; advisor, Prof. Qiji Ze.
         highlights:
-          - Designed a motorized translating-pulley catheter accumulator for insertion and retraction, with approximately twofold length compensation (ΔL ≈ 2Δx).
-          - Developed the assembly in Fusion 360 and SolidWorks using a 120-mm guide pulley, 608 bearings, an MGN12H carriage, a T8 lead-screw stage, and custom 3D-printed components.
-          - Implemented Python/Tkinter software, USB serial communication, Arduino UNO firmware, and TB6600 stepper control, including calibration, jogging, fixed-distance motion, adjustable speed and acceleration, travel limits, and watchdog protection.
-
+          - Designed a motorized translating-pulley catheter accumulator for insertion and retraction, with approximately twofold length compensation (ΔL
+            ≈ 2Δx).
+          - Developed the assembly in Fusion 360 and SolidWorks using a 120-mm guide pulley, 608 bearings, an MGN12H carriage, a T8 lead-screw stage, and
+            custom 3D-printed components.
+          - Implemented Python/Tkinter software, USB serial communication, Arduino UNO firmware, and TB6600 stepper control, including calibration, jogging,
+            fixed-distance motion, adjustable speed and acceleration, travel limits, and watchdog protection.
       - company: The Chinese University of Hong Kong
         position: Research Assistant
         location: Hong Kong SAR
@@ -56,10 +62,10 @@ cv:
         end_date: 2026-07
         summary: June–July 2026. Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation; advisor, Prof. Hongliang Ren.
         highlights:
-          - Designed and fabricated a millimeter-scale catheter integrating an LED micro-camera, a 0.2-mm nitinol support, heat-shrink encapsulation, and a hard-magnetic Ecoflex cuff.
+          - Designed and fabricated a millimeter-scale catheter integrating an LED micro-camera, a 0.2-mm nitinol support, heat-shrink encapsulation, and
+            a hard-magnetic Ecoflex cuff.
           - Built insertion-force and steering-characterization setups and completed bronchial-tree phantom navigation experiments.
           - Demonstrated multidirectional magnetic steering and forward-looking intraluminal imaging; led manuscript preparation as co-first author.
-
       - company: ETH Zurich, Multi-Scale Robotics Lab
         position: Research Assistant (Semester Project)
         location: Zurich, Switzerland
@@ -69,9 +75,9 @@ cv:
         highlights:
           - Designed and fabricated flexible imaging catheter prototypes using nitinol support wires of 0.5 mm and 0.7 mm in diameter.
           - Built a four-load-cell force platform with Arduino and Python data acquisition and compared prototypes with a 1.1-mm rigid reference.
-          - Identified the prototype with a 0.5-mm nitinol support and silicone covering as the lowest-force configuration (268.8 mN) in a simplified silicone setup; recorded 20 manual trials per condition and analyzed 10 selected trials per condition.
+          - Recorded 20 manual trials per condition and analyzed 10 selected trials per condition, as described in the semester-project report; compared
+            support and surface configurations in a simplified silicone setup.
           - Demonstrated imaging in a silicone breast-duct phantom; semester project grade 5.5/6.0.
-
       - company: The Chinese University of Hong Kong
         position: Research Assistant
         location: Hong Kong SAR
@@ -80,8 +86,8 @@ cv:
         summary: September 2025–present. Polymer Material-Based Jumping Robot; advisor, Prof. Hongliang Ren.
         highlights:
           - Designed and fabricated an Arduino-controlled pneumatic jumping robot using a double-layer spherical-cap silicone actuator.
+          - Developed geometric models and investigated the effects of actuator radius and opening angle on deformation and elastic-energy storage.
           - Modeled actuator geometry and evaluated material stiffness and inflation-release cycles against jump height, frequency, and repeatability.
-
       - company: The Chinese University of Hong Kong
         position: Research Assistant
         location: Hong Kong SAR
@@ -89,10 +95,10 @@ cv:
         end_date: 2025-08
         summary: June–August 2025. Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy; advisor, Prof. Hongliang Ren.
         highlights:
-          - Developed A4988-based motor-control electronics and Arduino pulse-control software for a biopsy capsule measuring 17 mm in diameter and 22 mm in length.
+          - Developed A4988-based motor-control electronics and Arduino pulse-control software for a biopsy capsule measuring 17 mm in diameter and 22
+            mm in length.
           - Built an angular calibration platform yielding approximately 18.1 degrees per pulse and R-squared of 0.99.
           - Conducted ex vivo biopsy experiments and analyzed penetration, interaction-force, and tissue-yield data for the accepted ICRA 2026 paper.
-
     Publications:
       - title: A Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation
         authors:
@@ -103,8 +109,7 @@ cv:
           - Hongliang Ren
         publisher: International Conference on Biomimetic Intelligence and Robotics (ICBIR)
         releaseDate: 2026
-        summary: "Shuwei Zhao†, Ruizhou Zhao†, Zhiqing Tang, Wenchao Yue, and Hongliang Ren. Accepted at ICBIR 2026. †Equal contribution."
-
+        summary: Shuwei Zhao†, Ruizhou Zhao†, Zhiqing Tang, Wenchao Yue, and Hongliang Ren. Accepted at ICBIR 2026. †Equal contribution.
       - title: Bioinspired Kirigami Capsule Robot for Minimally Invasive Gastrointestinal Biopsy
         authors:
           - Ruizhou Zhao
@@ -116,48 +121,50 @@ cv:
         publisher: IEEE International Conference on Robotics and Automation (ICRA)
         releaseDate: 2026
         url: https://arxiv.org/abs/2602.06207
-        summary: "Ruizhou Zhao†, Yichen Chu†, Shuwei Zhao, Wenchao Yue, Raymond Shing-Yan Tang, and Hongliang Ren. Accepted at ICRA 2026. †Equal contribution. Preprint available on arXiv."
-
+        summary: Ruizhou Zhao†, Yichen Chu†, Shuwei Zhao, Wenchao Yue, Raymond Shing-Yan Tang, and Hongliang Ren. Accepted at IEEE ICRA 2026. †Equal
+          contribution (Ruizhou Zhao and Yichen Chu). Author manuscript available on arXiv.
     Awards:
       - title: Song Qingling Scholarship
-        date: "2023–2027"
+        date: 2023–2027
         awarder: Zhiyuan Education Fund
         summary: RMB 320,000 scholarship.
-
       - title: Dean's List
-        date: "2023, 2024"
+        date: 2023, 2024
         awarder: Faculty of Engineering, The Chinese University of Hong Kong
         summary: Awarded to students in the top 10 percent.
-
       - title: United College Head's List
-        date: "2023, 2024"
+        date: 2023, 2024
         awarder: United College, The Chinese University of Hong Kong
         summary: Recognition for outstanding academic performance.
-
       - title: Charles Kao Scholarship
         date: 2024, 2025
         awarder: The Chinese University of Hong Kong
-
       - title: Engineering Elite Stream Scholarship
         date: 2023, 2024
         awarder: The Chinese University of Hong Kong
-
       - title: Arthur and Louise May Memorial Scholarship
-        date: "2023–2025"
+        date: 2023–2025
         awarder: The Chinese University of Hong Kong
-
       - title: Second Prize, Shandong Provincial Mathematics Competition
         date: 2022
-
     Skills:
       - name: Mechanical Design and CAD
-        keywords: "SolidWorks, Fusion 360, Onshape"
-
+        keywords: SolidWorks, Fusion 360, Onshape
       - name: Embedded Systems and Electronics
-        keywords: "Arduino, motor control, sensor integration, schematic and PCB design, KiCad, EasyEDA Pro"
-
+        keywords: Arduino, motor control, sensor integration, schematic and PCB design, KiCad, EasyEDA Pro
       - name: Programming
-        keywords: "C/C++, Python, MATLAB, LaTeX"
-
+        keywords: C/C++, Python, MATLAB, LaTeX
       - name: Experimental and Fabrication
-        keywords: "3D printing, silicone and Ecoflex molding, nitinol catheter fabrication, force sensing, load-cell calibration, magnetic actuation, optical and infrared sensing, ex vivo tissue experiments"
+        keywords: 3D printing, silicone and Ecoflex molding, nitinol catheter fabrication, force sensing, load-cell calibration, magnetic actuation,
+          optical and infrared sensing, ex vivo tissue experiments
+    Selected Course Project:
+      - title: Autonomous Tracking and Grasping Robot
+        company: The Chinese University of Hong Kong
+        position: Course Project
+        start_date: 2024-10
+        end_date: 2025-01
+        summary: "Advisor: Ms. Lai Yin NGAN."
+        highlights:
+          - Built an autonomous mobile robot for line tracking, object acquisition, transportation, and placement within a four-minute competition task.
+          - Integrated multi-sensor tracking, a stepper-driven gripper, and high-friction contact surfaces.
+          - Developed inertial compensation, action sequences, and state-transition logic in C++.

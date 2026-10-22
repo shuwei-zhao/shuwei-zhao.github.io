@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed publications and preprints in medical, surgical, and magnetic robotics.
+description: Publications in robotics, actuation, and integrated robotic systems.
 nav: true
 nav_order: 2
 ---
 
-The papers below are listed as accepted conference papers. The ICRA manuscript is available as an arXiv preprint. Equal-contribution notes identify the first two authors of each paper; I am a co-first author of the ICBIR paper.
+Publication status and equal-contribution information are provided for each entry. Links to preprints are labeled separately from publisher versions.
 
 <!-- Bibsearch Feature -->
 

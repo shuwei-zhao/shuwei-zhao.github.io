@@ -2,16 +2,16 @@
 layout: page
 title: research
 permalink: /research/
-description: Selected projects in magnetic, soft, and minimally invasive medical robotics.
+description: Selected projects in robotic mechanisms, actuation, embedded control, and experimental validation.
 nav: true
 nav_order: 1
 display_categories: false
 horizontal: true
 ---
 
-My research focuses on medical robotics, including magnetic catheters, minimally invasive imaging and intervention, and soft robotic systems. The projects below also include catheter management for industrial inspection. Each page distinguishes my contributions and the current stage of validation.
+My projects explore how mechanical design, actuation, sensing, and embedded control can be integrated into functional robotic systems. They span motorized catheter management for industrial inspection, magnetically steerable imaging devices, soft actuators, and miniature robotic mechanisms. Each project identifies my contributions and the scope of experimental validation. This experience provides a foundation for my intended PhD research in cable-driven and wearable robotics.
 
-[Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006) &nbsp;&middot;&nbsp; [CV (PDF)](/assets/pdf/Shuwei_Zhao_CV.pdf?v=20261006)
+[Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261022) &nbsp;&middot;&nbsp; [CV (PDF)](/assets/pdf/Shuwei_Zhao_CV.pdf?v=20261022)
 
 <!-- pages/projects.md -->
 <div class="projects">

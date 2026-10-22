@@ -9,11 +9,11 @@ last_name: Zhao
 contact_note: >
   The best way to reach me is by email at shwzhao3@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shuwei Zhao is a final-year Electronic Engineering undergraduate at CUHK working on medical robotics, magnetic imaging catheters, and compliant robotic systems for minimally invasive imaging and intervention.
+  Shuwei Zhao is a final-year Electronic Engineering undergraduate at CUHK with research experience in robotic hardware, actuation, embedded control, and experimental validation, and interests in cable-driven and wearable robotics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Shuwei Zhao, Wayne Zhao, medical robotics, surgical robotics, magnetic actuation, imaging catheters, endoscopic imaging, soft robotics, CUHK, Hongliang Ren, Bradley Nelson
+keywords: Shuwei Zhao, Wayne Zhao, robotics, robotic mechanisms, cable-driven robotics, wearable robotics, soft robotics, compliant mechanisms, embedded control, magnetic actuation, CUHK
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -136,7 +136,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Shuwei Zhao # blog_name will be displayed in your blog page
-blog_description: Notes on medical and magnetic robotics
+blog_description: Notes on robotic mechanisms, actuation, control, and experimental systems.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

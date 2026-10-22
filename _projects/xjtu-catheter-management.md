@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Motorized Catheter Storage and Management System
-description: A translating-pulley accumulator and motion-control software for industrial inspection
+title: Motorized Catheter Management Module for Industrial Inspection
+description: Mechanical design and embedded/PC motion control of a translating-pulley catheter accumulator for industrial inspection.
 img: assets/img/projects/xjtu-catheter-management.jpg
-importance: 4
+importance: 1
 category: research
 ---
 
@@ -19,4 +19,6 @@ I implemented the motion-control stack using a **Python/Tkinter interface**, USB
 
 The photograph shows the broader laboratory setup. My work focused on the catheter management module and its control software; the robot-assisted magnetic manipulation and complete inspection system were team infrastructure. This work addressed **industrial inspection**, with no claim of medical or clinical validation.
 
-[View the research portfolio](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261006).
+This project strengthened my experience in mechanism design, motion transmission, embedded programming, and hardware–software integration, providing a foundation for further work on robotic actuation systems.
+
+[View the research portfolio](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261022).

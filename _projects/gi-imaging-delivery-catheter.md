@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gastrointestinal Imaging and Delivery Catheter
-description: Ongoing development combining imaging, magnetic steering, and an independent delivery channel
-importance: 5
+description: Ongoing integration of imaging, magnetic steering, and a dedicated delivery channel in a flexible catheter.
+importance: 6
 category: research
 ---
 
