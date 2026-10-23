@@ -10,4 +10,4 @@ category: research
 
 This project aims to integrate forward-looking imaging, magnetic steering, and an independent drug-delivery channel in a flexible catheter for gastrointestinal applications. The design goal is to support visual guidance and localized delivery within one catheter.
 
-My current research focus is the integration of these functions. Prototype development and experimental evaluation remain in progress. Validation is planned; animal, ex vivo, and clinical validation have not been completed for this project. No performance results or publication claims are reported here.
+My current work focuses on integrating the imaging module, magnetic steering components, and an independent drug-delivery channel within a flexible catheter. Prototype development is ongoing, and experimental validation is planned.

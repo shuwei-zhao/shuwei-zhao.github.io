@@ -2,7 +2,7 @@
 layout: page
 title: Motorized Catheter Management Module for Industrial Inspection
 description: Mechanical design and embedded/PC motion control of a translating-pulley catheter accumulator for industrial inspection.
-img: assets/img/projects/xjtu-catheter-management.jpg
+img: assets/img/projects/xjtu-catheter-accumulator-crop.jpg
 importance: 1
 category: research
 ---
@@ -15,10 +15,16 @@ I designed and built a **motorized translating-pulley accumulator**. Moving the 
 
 I implemented the motion-control stack using a **Python/Tkinter interface**, USB serial communication, **Arduino UNO firmware**, and a **TB6600 stepper driver**. It supports manual calibration, jogging, fixed-distance motion, speed and acceleration settings, software travel limits, and a communication watchdog.
 
-{% include figure.liquid loading="eager" path="assets/img/projects/xjtu-catheter-management.jpg" title="The laboratory's industrial-inspection setup, including the catheter management module and PC control interface I developed" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/xjtu-catheter-accumulator-crop.jpg" title="Translating-pulley catheter accumulator, cropped from the laboratory photograph" class="img-fluid rounded z-depth-1" %}
 
-The photograph shows the broader laboratory setup. My work focused on the catheter management module and its control software; the robot-assisted magnetic manipulation and complete inspection system were team infrastructure. This work addressed **industrial inspection**, with no claim of medical or clinical validation.
+**My contribution:** The translating-pulley catheter accumulator, its mechanical assembly, Arduino firmware, and PC motion-control interface.
+
+{% include figure.liquid loading="lazy" path="assets/img/projects/xjtu-catheter-management.jpg" title="Laboratory industrial-inspection platform; the accumulator appears at the lower left" class="img-fluid rounded z-depth-1" %}
+
+**Laboratory platform:** The robot-assisted magnetic manipulation setup and the complete industrial-inspection system were team infrastructure.
+
+This work addressed **industrial inspection**, with no claim of medical or clinical validation.
 
 This project strengthened my experience in mechanism design, motion transmission, embedded programming, and hardware–software integration, providing a foundation for further work on robotic actuation systems.
 
-[View the research portfolio](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261022).
+[View the research portfolio](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261023).

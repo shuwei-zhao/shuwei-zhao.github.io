@@ -5,8 +5,10 @@ description: Integrated magnetic actuation and forward-looking imaging, with ste
 img: assets/img/projects/bronchial-catheter-concept.png
 importance: 2
 category: research
-related_publications: true
+related_publications: false
 ---
+
+**June–July 2026 · Research Assistant · The Chinese University of Hong Kong · Advisor: Prof. Hongliang Ren**
 
 This project develops a millimeter-scale catheter that combines distal visualization with controllable magnetic steering for navigation in branched lumens. The system integrates an LED micro-camera, a 0.2-mm nitinol support wire, heat-shrink encapsulation, and a wrapped hard-magnetic Ecoflex cuff actuated by an external permanent magnet.
 
@@ -20,4 +22,6 @@ This project develops a millimeter-scale catheter that combines distal visualiza
 
 {% include figure.liquid loading="eager" path="assets/img/projects/bronchial-catheter-validation.png" title="Magnetically assisted branch selection at primary and secondary bronchial bifurcations" class="img-fluid rounded z-depth-1" %}
 
-**Publication:** _A Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation_, accepted at ICBIR 2026. Shuwei Zhao and Ruizhou Zhao contributed equally.
+**Publication:** _A Magnetically Steerable Micro-Camera Catheter for Bronchial-Tree Phantom Navigation_. Accepted at ICBIR 2026.
+Shuwei Zhao†, Ruizhou Zhao†, Zhiqing Tang, Wenchao Yue, and Hongliang Ren. †Equal contribution.
+[View publication details](/publications/).

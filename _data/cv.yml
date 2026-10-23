@@ -75,7 +75,7 @@ cv:
         highlights:
           - Designed and fabricated flexible imaging catheter prototypes using nitinol support wires of 0.5 mm and 0.7 mm in diameter.
           - Built a four-load-cell force platform with Arduino and Python data acquisition and compared prototypes with a 1.1-mm rigid reference.
-          - Recorded 20 manual trials per condition and analyzed 10 selected trials per condition, as described in the semester-project report; compared
+          - The reported analysis used 10 selected trials from 20 recorded manual trials per condition and included a 1.1-mm rigid reference; compared
             support and surface configurations in a simplified silicone setup.
           - Demonstrated imaging in a silicone breast-duct phantom; semester project grade 5.5/6.0.
       - company: The Chinese University of Hong Kong
@@ -83,7 +83,7 @@ cv:
         location: Hong Kong SAR
         start_date: 2025-09
         end_date: present
-        summary: September 2025–present. Polymer Material-Based Jumping Robot; advisor, Prof. Hongliang Ren.
+        summary: "September 2025–present. Pneumatic Soft Jumping Robot; advisor, Prof. Hongliang Ren."
         highlights:
           - Designed and fabricated an Arduino-controlled pneumatic jumping robot using a double-layer spherical-cap silicone actuator.
           - Developed geometric models and investigated the effects of actuator radius and opening angle on deformation and elastic-energy storage.

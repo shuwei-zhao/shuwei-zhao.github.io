@@ -4,13 +4,13 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/Shuwei_Zhao_CV.pdf?v=20261022
+cv_pdf: /assets/pdf/Shuwei_Zhao_CV.pdf?v=20261023
 description: Education, research experience, publications, honors, and technical skills.
 toc:
   sidebar: left
 ---
 
-[Download CV (PDF)](/assets/pdf/Shuwei_Zhao_CV.pdf?v=20261022) &nbsp;&middot;&nbsp; [Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261022)
+[Download CV (PDF)](/assets/pdf/Shuwei_Zhao_CV.pdf?v=20261023) &nbsp;&middot;&nbsp; [Research Portfolio (PDF)](/assets/pdf/Shuwei_Zhao_Research_Portfolio.pdf?v=20261023)
 
 {% assign cv = site.data.cv.cv %}
 

@@ -111,7 +111,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org meta tags in the HTML head
-og_image: assets/img/projects/bronchial-catheter-concept.png
+og_image: /assets/img/projects/bronchial-catheter-concept.png
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

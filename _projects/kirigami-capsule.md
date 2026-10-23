@@ -5,8 +5,10 @@ description: Motor-control electronics, angular calibration, system integration,
 img: assets/img/projects/kirigami-capsule-overview.png
 importance: 4
 category: research
-related_publications: true
+related_publications: false
 ---
+
+**June–August 2025 · Research Assistant · The Chinese University of Hong Kong · Advisor: Prof. Hongliang Ren**
 
 The Kiri-Capsule is a biopsy capsule measuring **17 mm in diameter and 22 mm in length** that uses a dual-cam mechanism to deploy polyimide kirigami flaps and perform controlled rotational scraping. The design aims to extend wireless capsule endoscopy from passive imaging to histology-ready tissue acquisition.
 
